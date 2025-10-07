@@ -53,7 +53,8 @@ while True:
         # MediaPipe normaliza Y de 0 (topo) a 1 (base)
         # Pulso acima do ombro = braço levantado
         right_target = int(180 * (1 - (r_wrist.y - r_shoulder.y)))  # escala 0-180
-        left_target  = int(180 * (1 - (l_wrist.y - l_shoulder.y)))  # escala 0-180
+        
+        left_target  = 180 - int(180 * (1 - (l_wrist.y - l_shoulder.y)))  # escala 0-180
 
         # Limita 0-180
         right_target = max(0, min(180, right_target))
