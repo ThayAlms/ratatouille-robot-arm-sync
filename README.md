@@ -1,5 +1,9 @@
 # ratatouille-robot-arm-sync
 A Ratatouille-inspired robot rat that mimics your arm movements in real time — powered by Arduino magic and a dash of maker passion. 🐭⚙️
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+![Arduino](https://img.shields.io/badge/arduino-uno-red.svg)
+![MediaPipe](https://img.shields.io/badge/mediapipe-latest-orange.svg)
+
 
 
 # 🧀🤖 RemyBot — The Little Rat That Moves Like You
