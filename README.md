@@ -16,6 +16,9 @@ By strapping **MPU6050 sensors to your wrists** or using **MediaPipe via webcam*
 
 It’s like having your very own Pixar-style puppet — only smarter, cuter, and built with solder and code.
 
+
+![Descrição da imagem](media/Remy_FullBody.jpeg)
+
 ---
 
 ## 🎬 Project Overview
